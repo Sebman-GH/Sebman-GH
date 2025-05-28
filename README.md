@@ -59,8 +59,5 @@
 
 ---
 
-### 📈 GitHub Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sebman-GH&theme=dark)](https://git.io/streak-stats)
-
 ### 📫 Connect With Me
 [![Telegram](https://img.shields.io/badge/Telegram-@Trufanov_TG-26A5E4?logo=telegram)](https://t.me/Trufanov_TG)
