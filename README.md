@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Egor Trufanov</h1>
+<h1 align="center">Hi, I'm Egor Trufanov 👋</h1>
 <h3 align="center">Backend Engineer & AI Researcher</h3>
 
 ---
@@ -43,10 +43,10 @@
 
 ### 🎓 Education
 **ITMO University**  
-Master's in Artificial Intelligence 
-Faculty: Artificial Intelligence Technologies
-Specialization: AI in industry
-GPA: 4.90/5.00
+- Master's in Artificial Intelligence
+- Faculty: Artificial Intelligence Technologies
+- Specialization: AI in industry
+- GPA: 4.90/5.00
 
 ---
 
@@ -54,8 +54,8 @@ GPA: 4.90/5.00
 - 4+ years building production backend systems
 - Specialized in Python/Go development
 - Passionate about ML engineering and MLOps
+- Researching data optimization algorithms
 - Active in competitive programming and hackathons
-- Research focus on data optimization algorithms
 
 ### 📫 Connect With Me
 [![Telegram](https://img.shields.io/badge/Telegram-@Trufanov_TG-26A5E4?logo=telegram)](https://t.me/Trufanov_TG)
