@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Egor Trufanov 👋</h1>
-<h3 align="center">Backend Engineer & AI Researcher</h3>
+<h3 align="center">Backend Developer & ML Engineer</h3>
 
 ---
 
