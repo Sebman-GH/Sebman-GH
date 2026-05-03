@@ -46,17 +46,14 @@
 - Master's in Artificial Intelligence
 - Faculty: Artificial Intelligence Technologies
 - Specialization: AI in industry
-- GPA: 4.90/5.00
 
 ---
 
 ### 🏆 Highlights
 - 4+ years building production backend systems
-- Specialized in Python/Go development
-- Passionate about ML engineering and MLOps
-- Researching data optimization algorithms
+- Specialized in Python/C++ development
 - Active in competitive programming and hackathons
-
+- Conducting scientific research and authoring academic papers
 ---
 
 ### 📫 Connect With Me
